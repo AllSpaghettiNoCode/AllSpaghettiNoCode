@@ -3,8 +3,8 @@
 ![ColdCawfee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdCawfee&count_private=true&show_icons=true&theme=codeSTACKr)
 
 ## Current works:
--☕SpiltCoffee - Image filter
+-☕[SpiltCoffee](https://github.com/ColdCawfee/SpiltCoffee) - Image filter
 
--🖼️PyDentify - GPT2 image identifier
+-🖼️[PyDentify](https://github.com/ColdCawfee/PyDentify) - GPT2 image identifier
 
--🤖ElevenBot - A discord bot hosted 24/7 that uses ElevenLabs.io
+-🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io
