@@ -22,4 +22,4 @@
 
 ## What I am currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&redirect=true)
