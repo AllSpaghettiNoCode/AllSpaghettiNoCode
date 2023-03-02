@@ -1,8 +1,6 @@
 ## I am a Python bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with.
 
-[![Discord](https://lanyard.cnrad.dev/api/414558788092428299?idleMessage=Probably%20doing%20some%20coding...&hideStatus=true&hideDiscrim=true)](https://discord.com/users/414558788092428299)
-
-<img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">           
+<img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">  
 
 -☕[SpiltCoffee](https://github.com/ColdCawfee/SpiltCoffee) - Image filter GUI.
 
