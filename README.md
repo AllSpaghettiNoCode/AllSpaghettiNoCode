@@ -12,6 +12,8 @@
 
 -🔁[OofsyDoofsy](https://github.com/ColdCawfee/OofsyDoofsy) - A script that changes the Roblox's new death sound to a sound file of your choice.
 
+-🎵[CoffeeBot](https://github.com/ColdCawfee/CoffeeBot) - Funny TikTok TTS Discord bot.
+
 ---
 
 ## My stats:
