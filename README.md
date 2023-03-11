@@ -19,6 +19,9 @@
 ## My stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=COldCawfee" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=COldCawfee" height="150" alt="languages graph"  />
+  <a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ColdCawfee&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=COldCawfee" height="150" alt="languages graph"/>
+  
 </div>
