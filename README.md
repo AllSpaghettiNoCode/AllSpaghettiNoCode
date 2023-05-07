@@ -1,23 +1,30 @@
 ## I am a Python bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with.
 
-#### Refresh my page for a random joke!
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<div align='center'>
+  Refresh my page for a random joke!
+  
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+</a>
+</div>
 
 ---
 
-<img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">  
+<div align='center'>
+  <img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">  
 
--☕[SpiltCoffee](https://github.com/ColdCawfee/SpiltCoffee) - Image filter GUI.
+  
+  -☕[SpiltCoffee](https://github.com/ColdCawfee/SpiltCoffee) - Image filter GUI.
 
--🖼️[PyDentify](https://github.com/ColdCawfee/PyDentify) - GPT2 image identifier.
+  -🖼️[PyDentify](https://github.com/ColdCawfee/PyDentify) - GPT2 image identifier.
 
--🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io
+  -🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io
 
--🗣️[GlobalVoiceMaker](https://github.com/ColdCawfee/GlobalVoiceMaker) - Make your own voice for any AI TTS program or website with this script.
+  -🗣️[GlobalVoiceMaker](https://github.com/ColdCawfee/GlobalVoiceMaker) - Make your own voice for any AI TTS program or website with this script.
 
--🔁[OofsyDoofsy](https://github.com/ColdCawfee/OofsyDoofsy) - A script that changes the Roblox's new death sound to a sound file of your choice.
+  -🔁[OofsyDoofsy](https://github.com/ColdCawfee/OofsyDoofsy) - A script that changes the Roblox's new death sound to a sound file of your choice.
 
--🎵[CoffeeBot](https://github.com/ColdCawfee/CoffeeBot) - Funny TikTok TTS Discord bot.
+  -🎵[CoffeeBot](https://github.com/ColdCawfee/CoffeeBot) - Funny TikTok TTS Discord bot.
+</div>
 
 ---
 
