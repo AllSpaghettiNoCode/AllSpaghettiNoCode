@@ -1,7 +1,9 @@
-## I am a Python bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with.
+## I am a Python fanatic and discord bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with.
 
 <div align='center'>
-  Refresh my page for a random joke!
+  Refresh my page for a random joke! 
+  
+  **(If it shows the same one, close and reopen my profile)**
   
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 </a>
@@ -14,8 +16,10 @@
 
   
   -☕[SpiltCoffee](https://github.com/ColdCawfee/SpiltCoffee) - Image filter GUI.
+  
+  -🍵[PyCafe](https://github.com/ColdCawfee/PyCafe) - A discord bot that uses SpiltCoffee's available filters.
 
-  -🖼️[PyDentify](https://github.com/ColdCawfee/PyDentify) - GPT2 image identifier.
+  -🖼️[PyDentify](https://github.com/ColdCawfee/PyDentify) - GPT2 image identifier ported to a discord bot.
 
   -🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io
 
