@@ -13,7 +13,6 @@
 
 <div align='center'>
   <img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">  
-
   
   -☕[SpiltCoffee](https://github.com/ColdCawfee/SpiltCoffee) - Image filter GUI.
   
@@ -28,6 +27,8 @@
   -🔁[OofsyDoofsy](https://github.com/ColdCawfee/OofsyDoofsy) - A script that changes the Roblox's new death sound to a sound file of your choice.
 
   -🎵[CoffeeBot](https://github.com/ColdCawfee/CoffeeBot) - Funny TikTok TTS Discord bot.
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&redirect=true)
 </div>
 
 ---
