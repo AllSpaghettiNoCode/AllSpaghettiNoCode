@@ -36,7 +36,7 @@
 ## My stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=COldCawfee" height="150" alt="languages graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColdCawfee&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Vessel-Legends" height="150" alt="languages graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vessel-Legends&theme=tokyonight" alt="mystreak"/>
   
 </div>
