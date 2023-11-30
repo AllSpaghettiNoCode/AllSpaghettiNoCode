@@ -28,6 +28,8 @@
 
   -🎵[CoffeeBot](https://github.com/ColdCawfee/CoffeeBot) - Funny TikTok TTS Discord bot.
 
+  -🍳[ScrambledLibrary](https://github.com/Vessel-Legends/ScrambledLibrary) - A library that takes a sentence and turns it into a brand new one using Googletrans and multiple translation languages.
+
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31t3lawhonaf74wigzzclcx3hfq4&redirect=true)
 </div>
 
