@@ -20,7 +20,7 @@
 
   -🖼️[PyDentify](https://github.com/ColdCawfee/PyDentify) - GPT2 image identifier ported to a discord bot.
 
-  ~~-🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io~~ (Broken)
+  -🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io
 
   -🗣️[GlobalVoiceMaker](https://github.com/ColdCawfee/GlobalVoiceMaker) - Make your own voice for any AI TTS program or website with this script.
 
