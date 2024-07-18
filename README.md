@@ -30,16 +30,6 @@
 
   -🍳[ScrambledLibrary](https://github.com/Vessel-Legends/ScrambledLibrary) - A library that takes a sentence and turns it into a brand new one using Googletrans and multiple translation languages.
 
- -📋
-[ScrapeBooru](https://github.com/Vessel-Legends/ScrapeBooru) - A GUI program that scrapes images from Gelbooru. Includes some advanced options. 
+  -📋[ScrapeBooru](https://github.com/Vessel-Legends/ScrapeBooru) - A GUI program that scrapes images from Gelbooru. Includes some advanced options. 
 
-</div>
-
----
-
-## My stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Vessel-Legends" height="150" alt="languages graph"/>
-  
 </div>
