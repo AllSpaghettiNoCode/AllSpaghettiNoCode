@@ -1,6 +1,7 @@
 ## I am a Python fanatic and discord bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with.
 
 <div align='center'>
+  <img src="https://count.getloli.com/@DrGear?name=DrGear&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"><br>
   Refresh my page for a random joke! 
   
   **(If it shows the same one, close and reopen my profile)**
