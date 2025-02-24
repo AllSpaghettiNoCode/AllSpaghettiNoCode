@@ -9,11 +9,7 @@
 
   -🖼️[PyDentify](https://github.com/DrGear/PyDentify) - GPT2 image identifier ported to a discord bot.
 
-  -🤖[ElevenBot](https://github.com/elevenlabs/discord-bot) - A discord bot hosted 24/7 that uses ElevenLabs.io
-
   -🗣️[GlobalVoiceMaker](https://github.com/DrGear/GlobalVoiceMaker) - Make your own voice for any AI TTS program or website with this script.
-
-  -🔁[OofsyDoofsy](https://github.com/DrGear/OofsyDoofsy) - A script that changes the Roblox's new death sound to a sound file of your choice.
 
   -🎵[CoffeeBot](https://github.com/DrGear/CoffeeBot) - Funny TikTok TTS Discord bot.
 
