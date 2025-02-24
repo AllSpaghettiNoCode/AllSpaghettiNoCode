@@ -1,18 +1,6 @@
 ## I am a Python and JS fanatic and discord bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with or make extensions that solve some problems.
 
 <div align='center'>
-  <img src="https://count.getloli.com/@DrGear?name=DrGear&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"><br>
-  Refresh my page for a random joke! 
-  
-  **(If it shows the same one, close and reopen my profile)**
-  
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
-</a>
-</div>
-
----
-
-<div align='center'>
   <img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">  
   
   -☕[SpiltCoffee](https://github.com/DrGear/SpiltCoffee) - Image filter GUI.
