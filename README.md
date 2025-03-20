@@ -23,6 +23,6 @@
 
 -🪝[TwitchExternal](https://github.com/DrGear/TwitchExternal) and [TwitchExternalHook](https://github.com/DrGear/TwitchExternal/tree/hook) - An extension that allows you to download twitch streams as audio, with many features.
 
--✂️[CutTheC(r)ap](https://github.com/DrGear/CutTheCap) - An extension for the web version of CapCut that allows you to download TTS voices, free or pro, by only listening to a preview of it.
+-✂️[CrapCut](https://github.com/DrGear/CrapCut) - An extension for the web version of CapCut that allows you to download TTS voices, free or pro, by only listening to a preview of it.
 
 </div>
