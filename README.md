@@ -1,4 +1,4 @@
-## I am a Python and JS fanatic and discord bot maker & developer. I sometimes port cool projects to discord bots for people to have fun with or make extensions that solve some problems.
+## I am a Python and JS fanatic. I sometimes port cool projects to discord bots for people to have fun with or make extensions that solve some problems.
 
 <div align='center'>
   <img src="https://api.jm26.net/badge/beta?g&label=Python&icon=f3e2&message=Projects&color=1800cc&format=jpg" height="25px" alt="Python Projects">  
