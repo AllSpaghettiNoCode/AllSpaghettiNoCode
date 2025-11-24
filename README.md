@@ -25,4 +25,6 @@
 
 -✂️[CrapCut](https://github.com/AllSpaghettiNoCode/CrapCut) - An extension for the web version of CapCut that allows you to download TTS voices, free or pro, by only listening to a preview of it.
 
+- 📈[MVSEPortable](https://github.com/AllSpaghettiNoCode/MVSEPortable) - Extension that allows you to use MVSEP anywhere!
+
 </div>
