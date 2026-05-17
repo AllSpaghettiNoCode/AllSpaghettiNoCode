@@ -24,7 +24,7 @@
 
 # Python Projects
 
-### PyCafe
+### 🍵 PyCafe
 Discord bot version of SpiltCoffee with image filters and effects.  
 <https://github.com/AllSpaghettiNoCode/PyCafe>
 
